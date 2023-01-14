@@ -7,3 +7,6 @@ Very small grep alternative written in Rust as a tutorial project.
 
 # ToDo
 - add [indicatif](https://crates.io/crates/indicatif) for a large text files (i.e. > 100 lines)
+- multiple files search/glob
+- regex support?
+- benchmarks :3
